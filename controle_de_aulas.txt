@@ -1,0 +1,7 @@
+# Prepare-se para a jornada
+ 1- Conhecendo as Oportunidades - OK
+ 2- Seja Protagonista Neste Bootcamp - OK
+ 3- Introdução ao Desenvolvimento Moderno de Software- ok
+ 4- Introdução à Programação e Pensamento Computacional - Ok
+ 5- introdução ao Git e ao GitHub - Ok
+ 6- Criando seu Primeiro Repositório no github para Compartilhar seu Progresso - OK 
